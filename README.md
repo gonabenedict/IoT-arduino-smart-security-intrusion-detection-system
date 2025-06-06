@@ -1,4 +1,4 @@
- 🔒 Arduino Alpha Board Security System — Intrusion Detection
+ 🔒 Arduino Alpha Board Security System  Intrusion Detection
 
 This project implements an effective security system using the Arduino Alpha Board. It features intrusion detection based on light and temperature sensors, status LEDs, a buzzer, and manual arm/disarm buttons. The system detects abnormal environmental conditions and triggers both visual and audio alerts.
 
